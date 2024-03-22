@@ -1,0 +1,40 @@
+{
+  "name": "consequunturquae",
+  "version": "1.0.0",
+  "description": "Easy-to-use config storage via JSON with optional base-64 encryption for sensitive data",
+  "main": "./dist/index.js",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacyntheErdman/consequunturquae.git"
+  },
+  "keywords": [
+    "typescript",
+    "aliquid",
+    "porro",
+    "config",
+    "store",
+    "eius",
+    "encrypt",
+    "encryption"
+  ],
+  "author": "JaunitaSchaefer",
+  "license": "MIT",
+  "homepage": "https://github.com/JacyntheErdman/consequunturquae.git",
+  "devDependencies": {
+    "@types/chai": "*",
+    "@types/js-base64": "^2.3.1",
+    "@types/mocha": "*",
+    "@types/node": "*",
+    "chai": "*",
+    "mocha": "*",
+    "typedoc": "*",
+    "typedoc-plugin-markdown": "*"
+  },
+  "dependencies": {
+    "edit-json-file": "^1.4.0",
+    "js-base64": "^2.5.2"
+  }
+}
